@@ -1,7 +1,15 @@
 {
-  "name": "intern1",
+  "name": "application2",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/sahil454521/codetch#readme",
+  "bugs": {
+    "url": "https://github.com/sahil454521/codetch/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil454521/codetch.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
